@@ -1,0 +1,14 @@
+{
+  "name": "validators",
+  "version": "1.0.0",
+  "description": "**Objective:** The objective of this assignment is to create a JavaScript file that contains validator functions to check various types of input data. The validator functions to be implemented include `isEmpty`, `isStrongPassword`, `isEmail`, `isAlpha`, and `isAlphanumeric`.",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha -w main.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.4.0"
+  }
+}
